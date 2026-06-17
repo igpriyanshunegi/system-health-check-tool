@@ -1,0 +1,38 @@
+============================================================
+  SYSTEM HEALTH CHECK REPORT
+  Generated : 2026-06-17 08:37:55
+  Author    : Priyanshu Negi
+============================================================
+
+[SYSTEM INFO]
+  Hostname          : Priyanshu
+  OS                : Windows 11
+  OS Version        : 10.0.26200
+  Machine Type      : AMD64
+  Processor         : AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+  Python Version    : 3.13.5
+  Boot Time         : 2026-05-28 20:25:21
+  System Uptime     : 19 days, 12:12:26
+
+[CPU]
+  cpu_usage_percent     : 10.6
+  cores_logical         : 12
+
+[MEMORY]
+  ram_usage_percent     : 78.8
+  ram_available_gb      : 2.93
+
+[DISK]
+  C:\            : 77.8%
+  D:\            : 69.3%
+
+[NETWORK]
+  local_ip              : XX.XXX.XX.XX
+  bytes_sent_mb         : 68.52
+
+[ALERTS]
+  No alerts. All systems healthy.
+
+============================================================
+  END OF REPORT
+============================================================
